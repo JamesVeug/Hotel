@@ -1,0 +1,48 @@
+floor
+{
+	type tile
+	file floor.gif
+	save ,
+}
+
+shelf
+{ 
+	type tile
+	file shelf.gif 
+	save S
+}
+
+wall
+{ 
+	type tile
+	file wall.gif 
+	save #
+}
+
+white
+{ 
+	type tile
+	file white.png 
+	save .
+}
+
+door
+{ 
+	type object
+	file white.png 
+	save d
+}
+
+box
+{ 
+	type object
+	file box.gif 
+	save B
+}
+
+player
+{ 
+	type object
+	file player/up.gif 
+	save A
+}

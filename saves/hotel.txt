@@ -1,0 +1,5628 @@
+Tile
+{
+	ID
+	{
+		d3e18bd3-0638-4be1-b48f-9b7d676fe12d
+	}
+	MapPoint
+	{
+		725.0 225.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		863b62e9-51a6-46a2-bea8-f1b492733ef0
+	}
+	MapPoint
+	{
+		725.0 200.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		58383752-73f5-4720-b1a5-fc2db3d509b5
+	}
+	MapPoint
+	{
+		725.0 175.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		e93c2d4b-6712-4196-83ff-2caeff60010a
+	}
+	MapPoint
+	{
+		725.0 150.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		a60ad970-951b-44ee-960e-f2eb2f81838a
+	}
+	MapPoint
+	{
+		725.0 125.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		c793d91d-ed9e-46f4-baca-b99decb74bb2
+	}
+	MapPoint
+	{
+		725.0 100.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		51e963af-3ff3-403c-be59-b9fa2b441c48
+	}
+	MapPoint
+	{
+		725.0 75.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		1350665e-fff9-4492-a482-290993662233
+	}
+	MapPoint
+	{
+		725.0 50.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		d35c0c19-afe7-43c3-bc05-5d97e2d621c8
+	}
+	MapPoint
+	{
+		725.0 25.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		b838715a-9ed6-4c72-81da-46a656846d84
+	}
+	MapPoint
+	{
+		725.0 0.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		f0861e47-65be-437c-8147-3cab45999d01
+	}
+	MapPoint
+	{
+		700.0 225.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		11a08481-3dca-47d7-a2ea-3ad43366f326
+	}
+	MapPoint
+	{
+		700.0 200.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		a0dcbe45-dae2-436f-a6e1-eac6d260c4d7
+	}
+	MapPoint
+	{
+		700.0 175.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		1f301ba9-8950-455b-a3f1-a6ceaf78ad7f
+	}
+	MapPoint
+	{
+		700.0 150.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		79d3c103-eaa1-43f5-92e0-8c50f8afeff1
+	}
+	MapPoint
+	{
+		700.0 125.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		b81ae00d-15ea-4457-991d-da6cd2cfdd6f
+	}
+	MapPoint
+	{
+		700.0 100.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		044c1d4d-c29e-43c8-9de8-703068769e61
+	}
+	MapPoint
+	{
+		700.0 75.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		beb1adaa-01c7-4b2d-8391-58fcd74b0dbe
+	}
+	MapPoint
+	{
+		700.0 50.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		0436fbeb-c5f8-407f-b9d1-906e9e9ae969
+	}
+	MapPoint
+	{
+		700.0 25.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		23df6b51-53c6-4aac-8224-dcb0fba78f71
+	}
+	MapPoint
+	{
+		700.0 0.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		893509e0-0cb3-490e-9eb9-3223128492ea
+	}
+	MapPoint
+	{
+		675.0 225.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		16f9bedb-45b5-4444-be62-fe5f52c90056
+	}
+	MapPoint
+	{
+		675.0 200.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		c1e9565f-7fde-437d-9bba-c767b57c6099
+	}
+	MapPoint
+	{
+		675.0 175.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		9bc6a16a-5e25-43a6-b3c7-4ee0de8e5f47
+	}
+	MapPoint
+	{
+		675.0 150.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		ac024059-a00f-44ce-b410-3aaa554d52aa
+	}
+	MapPoint
+	{
+		675.0 125.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		9a7020d2-760e-445d-96fd-6db9a397692f
+	}
+	MapPoint
+	{
+		675.0 100.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		b4af3b4f-8fb7-4f6f-9e77-25fbdb03e5ef
+	}
+	MapPoint
+	{
+		675.0 75.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		23096716-fe2b-44ff-9670-ebad1b89bc73
+	}
+	MapPoint
+	{
+		675.0 50.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		6f94c438-37a0-481b-b752-fcee055227fc
+	}
+	MapPoint
+	{
+		675.0 25.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		d78854a4-1e4e-4905-b72e-0d53785ade6e
+	}
+	MapPoint
+	{
+		675.0 0.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		9ee82e17-b0c8-40fb-b26f-6f7a8a6a4d36
+	}
+	MapPoint
+	{
+		650.0 225.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		00718ab5-7712-4d59-9d4c-0e82c1ca435a
+	}
+	MapPoint
+	{
+		650.0 200.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		99e71254-501b-413f-b158-0c70113bf633
+	}
+	MapPoint
+	{
+		650.0 175.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		8d7760be-583b-4d18-a2ce-180ba4c8f697
+	}
+	MapPoint
+	{
+		650.0 150.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		59edd4ed-2263-4a26-a02d-7ca4252a91c4
+	}
+	MapPoint
+	{
+		650.0 125.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		10d50771-b628-4891-8052-6f939ae496cd
+	}
+	MapPoint
+	{
+		650.0 100.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		a16edfde-cdd6-4226-8fa1-5b0206dc18a5
+	}
+	MapPoint
+	{
+		650.0 75.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		ce751a44-4143-4acd-b179-2db46b03c8f1
+	}
+	MapPoint
+	{
+		650.0 50.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		c950de46-d13e-44d5-b3db-fbf9b28288ae
+	}
+	MapPoint
+	{
+		650.0 25.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		a254c186-1e11-46b8-84db-4614a368db66
+	}
+	MapPoint
+	{
+		650.0 0.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		8e463eeb-77ad-4e1f-bd54-410c1ce226d0
+	}
+	MapPoint
+	{
+		625.0 225.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		99c69050-b214-4d57-a6c6-9ab4475fbf0c
+	}
+	MapPoint
+	{
+		625.0 200.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		a4d4ae61-8e24-43cd-852a-0f4a7f4c62d4
+	}
+	MapPoint
+	{
+		625.0 175.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		aa7cb413-6bc1-4cbd-a169-2a39649700ce
+	}
+	MapPoint
+	{
+		625.0 150.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		9000ba49-c669-4312-9e0b-08dbdc50275b
+	}
+	MapPoint
+	{
+		625.0 125.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		1ec54063-2ff9-4daa-844f-d90652874f21
+	}
+	MapPoint
+	{
+		625.0 100.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		d889c090-1dec-4fb5-90bf-5e97d5bb488d
+	}
+	MapPoint
+	{
+		625.0 75.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		38f7cadd-f9c8-439f-ba9d-d66db48f4fee
+	}
+	MapPoint
+	{
+		625.0 50.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		f095d207-7ae4-4d5f-90bb-e27413bbb64f
+	}
+	MapPoint
+	{
+		625.0 25.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		9a630092-691d-4266-8833-b6a1097726b6
+	}
+	MapPoint
+	{
+		625.0 0.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		2487bf00-b1e9-4c7d-9475-27b18781ba05
+	}
+	MapPoint
+	{
+		600.0 225.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		4fbecd09-0073-40a9-819b-96a50382a5ad
+	}
+	MapPoint
+	{
+		600.0 200.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		f31c06e4-c0fc-4d87-9149-e7a90e334abf
+	}
+	MapPoint
+	{
+		600.0 175.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		2b905188-9511-428b-bbd8-9832ad57d9f6
+	}
+	MapPoint
+	{
+		600.0 150.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		57de26fd-d1ba-4c79-a4ba-acf10ed6bea8
+	}
+	MapPoint
+	{
+		600.0 125.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		746e8243-6f53-497b-a71c-a0b175bbf617
+	}
+	MapPoint
+	{
+		600.0 100.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		bee4e4b8-9995-431d-b86d-fab2d1401ee2
+	}
+	MapPoint
+	{
+		600.0 75.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		84e1f5cc-94b1-481a-b138-b5a6ca84ac78
+	}
+	MapPoint
+	{
+		600.0 50.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		a6a525de-3e91-4220-b061-6d1bfea5289e
+	}
+	MapPoint
+	{
+		600.0 25.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		9682393e-c67d-45a2-a61e-5f5ad05bc34d
+	}
+	MapPoint
+	{
+		600.0 0.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		c5ff4513-39d8-4841-aaa9-f41f0cd785e1
+	}
+	MapPoint
+	{
+		575.0 225.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		51718b91-0c45-4d80-a716-156d6e14a13a
+	}
+	MapPoint
+	{
+		575.0 200.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		9d3db398-add8-4758-aa7f-13703697e705
+	}
+	MapPoint
+	{
+		575.0 175.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		d9cc95e4-06e9-487b-8592-5eab49335d96
+	}
+	MapPoint
+	{
+		575.0 150.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		597d18dd-e110-4b11-b796-8c8ff01461e1
+	}
+	MapPoint
+	{
+		575.0 125.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		ef5b2624-7fbc-4e4b-8f32-0d071841ca8e
+	}
+	MapPoint
+	{
+		575.0 100.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		a91a4278-d325-4634-bdc5-94909f5e6bb0
+	}
+	MapPoint
+	{
+		575.0 75.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		3202a354-b2f7-49b9-9d07-7866be7d5308
+	}
+	MapPoint
+	{
+		575.0 50.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		116cf000-9c33-4407-97e3-eddf8fc166c0
+	}
+	MapPoint
+	{
+		575.0 25.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		8f60ab18-46c2-49f1-ac61-10953da66ed4
+	}
+	MapPoint
+	{
+		575.0 0.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		fd24b6fb-871e-4d1d-9f14-66e7e5383e8b
+	}
+	MapPoint
+	{
+		550.0 225.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		c13e706a-9150-4f17-a398-899b6d63afc1
+	}
+	MapPoint
+	{
+		550.0 200.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		ca3e243f-7918-4ca6-9e26-6a060c986780
+	}
+	MapPoint
+	{
+		550.0 175.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		96f4066e-e2fe-43ab-8928-06bac224c2be
+	}
+	MapPoint
+	{
+		550.0 150.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		1c53d5d2-e030-4c57-8792-5f94bc29689b
+	}
+	MapPoint
+	{
+		550.0 125.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		0113c88e-7c6a-410a-818e-334f02cfe211
+	}
+	MapPoint
+	{
+		550.0 100.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		41f7abe1-0cf7-4c18-a7e9-fc6bc876d0c7
+	}
+	MapPoint
+	{
+		550.0 75.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		37a81a8a-2f69-4d99-a1ea-61b8254153d0
+	}
+	MapPoint
+	{
+		550.0 50.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		9026bae2-7c46-4c12-9571-37dd8ec7cb93
+	}
+	MapPoint
+	{
+		550.0 25.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		b4e02e37-994b-4ee1-a43a-451496f6b793
+	}
+	MapPoint
+	{
+		550.0 0.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		b33e17b2-d974-4934-9730-b532d6a6f88f
+	}
+	MapPoint
+	{
+		525.0 225.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		783c6b64-de05-47b3-878c-438f7e73a47f
+	}
+	MapPoint
+	{
+		525.0 200.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		9c77e59c-0f2b-407b-b6dc-c52398c9a40e
+	}
+	MapPoint
+	{
+		525.0 175.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		04f4b203-7cf9-4528-b5c3-cec462297d7e
+	}
+	MapPoint
+	{
+		525.0 150.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		08c8cf86-b802-4d43-a8ba-4d491d4c9fad
+	}
+	MapPoint
+	{
+		525.0 125.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		0fe15dd2-7893-4995-ac40-821984e2b3c7
+	}
+	MapPoint
+	{
+		525.0 100.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		0170b0f2-5eb5-44df-a5cf-9c33106f7513
+	}
+	MapPoint
+	{
+		525.0 75.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		9d1a813f-3695-455d-a239-7857f4480ace
+	}
+	MapPoint
+	{
+		525.0 50.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		e36a6d29-e203-425b-98e3-ad7688874500
+	}
+	MapPoint
+	{
+		525.0 25.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		73d0a96d-5819-4faa-8287-26af0f1000f0
+	}
+	MapPoint
+	{
+		525.0 0.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		c67c2c67-6cc0-4a24-aeda-575bb5162850
+	}
+	MapPoint
+	{
+		500.0 225.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		33f1e4f0-b37c-4bf3-985a-c3961798ddbb
+	}
+	MapPoint
+	{
+		500.0 200.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		a22f91ef-12cf-498b-a3f0-f967794f65df
+	}
+	MapPoint
+	{
+		500.0 175.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		3d24bfdd-8858-44c4-9ffc-faed3753d394
+	}
+	MapPoint
+	{
+		500.0 150.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		7ff04dcf-4710-4dd4-9b1b-eeb58dfa7e91
+	}
+	MapPoint
+	{
+		500.0 125.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		a5177d48-a6ee-4b55-bec0-d6c064b3196c
+	}
+	MapPoint
+	{
+		500.0 100.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		8967c47c-f8aa-4570-9296-a536fa5c0bb4
+	}
+	MapPoint
+	{
+		500.0 75.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		5bab3030-d03d-43af-9839-21e166aa7cb8
+	}
+	MapPoint
+	{
+		500.0 50.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		5cf95c16-d147-44d3-bdb4-9ba7b74ec668
+	}
+	MapPoint
+	{
+		500.0 25.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		c89106c0-5e4d-4123-a3f5-60efbd809996
+	}
+	MapPoint
+	{
+		500.0 0.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		a72ede81-cc7c-4aa3-826d-6a6bc7fecbe9
+	}
+	MapPoint
+	{
+		475.0 225.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		7cb05e7a-3acb-4798-b613-6f1445624bd7
+	}
+	MapPoint
+	{
+		450.0 225.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		a223c200-2fd9-4db3-bca0-40a26208a384
+	}
+	MapPoint
+	{
+		425.0 225.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		4ef57fb9-247b-4fe5-be19-c5415072d4b1
+	}
+	MapPoint
+	{
+		400.0 225.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		9f52ef10-d946-4b54-8198-e58a701fa1cf
+	}
+	MapPoint
+	{
+		375.0 225.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		c6e2bcaa-4233-406f-abe0-699ae1611147
+	}
+	MapPoint
+	{
+		350.0 225.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		97c6c4bc-7287-4f29-b467-287081e27f68
+	}
+	MapPoint
+	{
+		325.0 225.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		0ff7c9a8-1725-4a7c-8dc1-41347be4e3a0
+	}
+	MapPoint
+	{
+		300.0 225.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		9e064e60-52d2-4001-b33b-2e1a443705b5
+	}
+	MapPoint
+	{
+		275.0 225.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		40e33bdc-7eeb-454d-be4a-0d0ae466ebae
+	}
+	MapPoint
+	{
+		250.0 225.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		139fea23-9c3e-47a0-be1b-324ce16cf04a
+	}
+	MapPoint
+	{
+		475.0 200.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		cd463882-95bc-4132-947b-058c4671cb73
+	}
+	MapPoint
+	{
+		475.0 175.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		c273287f-f5dc-4078-949e-76e761bca072
+	}
+	MapPoint
+	{
+		475.0 150.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		76cf6a9c-2fc0-4f6f-b1c8-f8386f0981ca
+	}
+	MapPoint
+	{
+		475.0 125.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		79094db2-c0d0-4ded-868f-20519c5c8a20
+	}
+	MapPoint
+	{
+		475.0 100.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		8eca5b83-ab66-4616-a001-e6767fc33b11
+	}
+	MapPoint
+	{
+		475.0 75.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		3a44e70c-099b-48de-a78e-723d49fb0346
+	}
+	MapPoint
+	{
+		475.0 50.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		e87dc636-2051-4940-a3c3-fd0ad8fb41fb
+	}
+	MapPoint
+	{
+		475.0 25.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		0bbad909-fff9-4cbe-99d5-8426d487ec25
+	}
+	MapPoint
+	{
+		475.0 0.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		b85ddd8c-b2c8-43a7-8fa7-f81d3ddddc86
+	}
+	MapPoint
+	{
+		450.0 200.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		de953167-01e2-43a8-8f4b-88afa6793262
+	}
+	MapPoint
+	{
+		450.0 175.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		a6dbc623-44e8-4085-b7f6-3edba4487ce2
+	}
+	MapPoint
+	{
+		450.0 150.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		8293dbca-23ed-4b82-8e30-bd3e468dfff6
+	}
+	MapPoint
+	{
+		450.0 125.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		ba4aee0c-fdba-48c7-9368-2444e171534b
+	}
+	MapPoint
+	{
+		450.0 100.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		4157ae59-2945-4238-a275-d6bc6c6c2bd6
+	}
+	MapPoint
+	{
+		450.0 75.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		7a29d73b-f9a9-49f4-9a66-eba6e5ca8de8
+	}
+	MapPoint
+	{
+		450.0 50.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		1ea38646-77e6-4d03-9b9f-8062689200a2
+	}
+	MapPoint
+	{
+		450.0 25.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		2a59034f-73b2-49a5-b216-19e0d0f8e84e
+	}
+	MapPoint
+	{
+		450.0 0.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		965adfb5-ddad-43de-83cb-0637bfc8e0d1
+	}
+	MapPoint
+	{
+		425.0 200.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		27acd7fb-0f17-4838-8af3-588282e09b6f
+	}
+	MapPoint
+	{
+		400.0 200.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		a75adc49-2864-454e-adc8-5d2688e57be8
+	}
+	MapPoint
+	{
+		375.0 200.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		ab5d25c0-79bc-4f58-9f5d-2bf88e7d5db9
+	}
+	MapPoint
+	{
+		350.0 200.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		986c1d25-21fb-41fc-a216-d2531c1cb979
+	}
+	MapPoint
+	{
+		325.0 200.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		b16dcbda-8177-4870-bcc1-3707471b6cec
+	}
+	MapPoint
+	{
+		300.0 200.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		0ed2185a-dc7c-44dd-aa92-bfcbcd8bedb8
+	}
+	MapPoint
+	{
+		275.0 200.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		1be4565c-574e-4ba3-bbe1-f529fb6b362c
+	}
+	MapPoint
+	{
+		250.0 200.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		d67d98b3-e7ba-4b71-8af8-99d3fa2b99a3
+	}
+	MapPoint
+	{
+		425.0 175.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		0855e5de-71d8-480e-a7c5-0f07d54a1f4e
+	}
+	MapPoint
+	{
+		425.0 150.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		a43c772c-add2-4b7f-82da-62f71879b1e0
+	}
+	MapPoint
+	{
+		425.0 125.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		2896a8df-1362-4899-8739-e7f7a39a9d4b
+	}
+	MapPoint
+	{
+		425.0 100.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		53d74192-24ac-4b35-bb89-5a3fbe0b0683
+	}
+	MapPoint
+	{
+		425.0 75.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		41c2c9dd-148e-4e9b-9a5e-72a1ce53d47e
+	}
+	MapPoint
+	{
+		425.0 50.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		82d963a2-fd10-4566-accb-3b92358426e1
+	}
+	MapPoint
+	{
+		425.0 25.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		4cd3750e-31bf-42cf-b42e-b5cf8a0a9769
+	}
+	MapPoint
+	{
+		425.0 0.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		5de045d2-9636-4c4a-9999-8f69e849225e
+	}
+	MapPoint
+	{
+		400.0 175.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		1b43ec37-8ba4-4de2-9fea-7ba3663798c8
+	}
+	MapPoint
+	{
+		375.0 175.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		b4d03934-99bd-4a28-a336-efe7d652bd14
+	}
+	MapPoint
+	{
+		350.0 175.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		0564aa10-8e5b-4f98-ac13-3d8fc5e15595
+	}
+	MapPoint
+	{
+		325.0 175.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		8441c958-9558-4b52-a8f1-60107336e1dc
+	}
+	MapPoint
+	{
+		300.0 175.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		34f350cb-586d-4009-bdc5-9e40389f1a88
+	}
+	MapPoint
+	{
+		275.0 175.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		dd680831-7c51-44d4-b981-c69e89d9760e
+	}
+	MapPoint
+	{
+		250.0 175.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		9ef08d6c-6228-4305-8911-f089e82ac120
+	}
+	MapPoint
+	{
+		400.0 150.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		1d7f3058-ea08-453c-b3ab-41f6bdb7d1e4
+	}
+	MapPoint
+	{
+		400.0 125.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		da973e85-32c1-4da9-9f85-7e3f8d68a416
+	}
+	MapPoint
+	{
+		400.0 100.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		fd9ff9d8-3037-4b63-aef7-025fd34b5a47
+	}
+	MapPoint
+	{
+		400.0 75.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		f60a5fe3-f7d9-4da7-8414-ebf8de7f6c98
+	}
+	MapPoint
+	{
+		400.0 50.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		475dd751-63a7-4a3a-892b-0ac74f787460
+	}
+	MapPoint
+	{
+		400.0 25.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		961b75b9-3987-4d29-b3ad-0f3fdca463cf
+	}
+	MapPoint
+	{
+		400.0 0.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		d96f9c90-a9b4-4a4f-92f4-aed624ecf7cf
+	}
+	MapPoint
+	{
+		375.0 150.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		f041325e-5f24-44bb-b853-89e8dcc6aa9c
+	}
+	MapPoint
+	{
+		375.0 125.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		29490df0-c8e4-4355-bc9f-73b4400924f1
+	}
+	MapPoint
+	{
+		375.0 100.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		e7c33223-5a8c-4ec4-aaf7-35afec7b93bc
+	}
+	MapPoint
+	{
+		375.0 75.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		7c4cefcb-c04a-4e48-8a94-8924ff70d80c
+	}
+	MapPoint
+	{
+		375.0 50.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		fa312e76-75bf-4050-bf34-a143adc9c169
+	}
+	MapPoint
+	{
+		375.0 25.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		047fc8fa-06df-48cf-a76a-09215bb83533
+	}
+	MapPoint
+	{
+		375.0 0.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		83a4c945-b28a-4ddc-8cc1-f8b7805a58b8
+	}
+	MapPoint
+	{
+		350.0 150.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		3e971f5f-3bab-4354-93fc-cec83936dc29
+	}
+	MapPoint
+	{
+		325.0 150.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		35661581-6e0c-4604-a679-488732327acd
+	}
+	MapPoint
+	{
+		300.0 150.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		cbd7a8b4-2263-4caf-a75e-34305d7ab76f
+	}
+	MapPoint
+	{
+		275.0 150.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		7d82b8b8-6794-49f5-a0ba-63e5d65a559c
+	}
+	MapPoint
+	{
+		250.0 150.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		b85740ad-f852-4a4d-a3e8-9eb5186ae4bc
+	}
+	MapPoint
+	{
+		350.0 125.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		06f52162-24bf-4040-acec-d82c800bd33c
+	}
+	MapPoint
+	{
+		350.0 100.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		ec31643c-6d12-4776-ac32-579f8c37c105
+	}
+	MapPoint
+	{
+		350.0 75.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		3d2ff06a-b4c0-4ea6-b589-4bda1b178d05
+	}
+	MapPoint
+	{
+		350.0 50.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		ec931d1d-7ba1-4af2-a8f9-bbe9c95181da
+	}
+	MapPoint
+	{
+		350.0 25.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		f0f598c8-7c49-4486-90f5-15059ad784ad
+	}
+	MapPoint
+	{
+		350.0 0.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		8f110a56-60f9-4c14-876d-50ac68ee8bbd
+	}
+	MapPoint
+	{
+		325.0 125.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		7b1e6074-9a57-41d0-ad30-488f27beb9d1
+	}
+	MapPoint
+	{
+		300.0 125.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		918300f3-e29f-4bca-a770-b69680a27c95
+	}
+	MapPoint
+	{
+		275.0 125.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		b608ef15-3edf-42f1-9d74-a26dd332d8a1
+	}
+	MapPoint
+	{
+		250.0 125.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		8781322e-0033-4252-aa3e-fe8604d64a11
+	}
+	MapPoint
+	{
+		325.0 100.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		0d41c40a-6e31-4a25-8d0d-c821c779d516
+	}
+	MapPoint
+	{
+		300.0 100.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		5619f084-2706-42f6-a25e-9e015659151c
+	}
+	MapPoint
+	{
+		275.0 100.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		a2ee4e9a-b40c-46ca-9f5c-3846a6613a95
+	}
+	MapPoint
+	{
+		250.0 100.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		b9d7d9de-997a-4b57-9d3e-4d3dca9094b3
+	}
+	MapPoint
+	{
+		325.0 75.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		57e5938f-87c1-4e9c-9759-1db8a534c6ed
+	}
+	MapPoint
+	{
+		325.0 50.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		da6e7e76-ff62-4339-86f1-31c74d647e21
+	}
+	MapPoint
+	{
+		325.0 25.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		88c688df-787b-4391-a887-8b0185a7def7
+	}
+	MapPoint
+	{
+		325.0 0.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		069c1130-3578-4c5c-b0de-a515cd9324a7
+	}
+	MapPoint
+	{
+		300.0 75.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		a9b17838-c6b5-4f34-9115-ef362894054f
+	}
+	MapPoint
+	{
+		275.0 75.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		82375cd2-16e5-4491-a5b8-705362ab3ee9
+	}
+	MapPoint
+	{
+		250.0 75.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		eb436500-39b8-43c0-bd71-45491b0584b2
+	}
+	MapPoint
+	{
+		300.0 50.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		338e0ab6-3996-4114-a296-1e7b79802a54
+	}
+	MapPoint
+	{
+		300.0 25.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		fe7d58d8-75a4-4459-a3fa-0d84618e6eef
+	}
+	MapPoint
+	{
+		300.0 0.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		087b0a7c-26f3-49c0-9c96-548daa1cd591
+	}
+	MapPoint
+	{
+		275.0 50.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		48c37269-476c-42de-b64a-8273a8a36f0d
+	}
+	MapPoint
+	{
+		250.0 50.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		f2101914-c553-4256-b845-d95d1637fab1
+	}
+	MapPoint
+	{
+		275.0 25.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\empty.gif
+	}
+	SaveCharacter
+	{
+		.
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		.
+	}
+}
+
+Tile
+{
+	ID
+	{
+		4c006574-8486-4936-a153-6dff1fd75963
+	}
+	MapPoint
+	{
+		275.0 0.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		538bbcb6-f51f-48df-b63f-0a50899c572a
+	}
+	MapPoint
+	{
+		250.0 25.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Tile
+{
+	ID
+	{
+		71488131-0b4e-4cd1-8802-644ce007af21
+	}
+	MapPoint
+	{
+		250.0 0.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\tile\wall.gif
+	}
+	SaveCharacter
+	{
+		#
+	}
+	Type
+	{
+		tile
+	}
+	SaveCharacter
+	{
+		#
+	}
+}
+
+Box
+{
+	ID
+	{
+		a771d464-8dc0-4e59-b4fe-46902ba84571
+	}
+	MapPoint
+	{
+		575.0 25.0
+	}
+	Image
+	{
+		C:\Stuff\Eclipse\projects\Mapster\resources\Entities\object\box.gif
+	}
+	SaveCharacter
+	{
+		B
+	}
+	Type
+	{
+		sprite
+	}
+	SaveCharacter
+	{
+		B
+	}
+}
+

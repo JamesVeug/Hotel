@@ -1,0 +1,207 @@
+Tile
+{ 
+	Type
+	{
+		tile
+	}
+	
+	Image
+	{
+		resources/Entities/tile/black.PNG 
+	}
+
+	SaveCharacter 
+	{
+		#
+	}
+}
+
+Tile
+{ 
+	Type
+	{
+		tile
+	}
+	
+	Image
+	{
+		resources/Entities/tile/BlackfadeRight.PNG 
+	}
+
+	SaveCharacter 
+	{
+		>
+	}
+}
+
+Tile
+{ 
+	Type
+	{
+		tile
+	}
+	
+	Image
+	{
+		resources/Entities/tile/gray.PNG 
+	}
+
+	SaveCharacter 
+	{
+		,
+	}
+}
+
+Shelf
+{ 
+	Type
+	{
+		decal
+	}
+	
+	Image
+	{
+		resources/Entities/decal/unknown.PNG 
+	}
+
+	SaveCharacter 
+	{
+		?
+	}
+}
+
+Tile
+{ 
+	Type
+	{
+		tile
+	}
+	
+	Image
+	{
+		resources/Entities/tile/white.PNG 
+	}
+
+	SaveCharacter 
+	{
+		.
+	}
+}
+
+Bed
+{ 
+	Type
+	{
+		Entity
+	}
+	
+	Image
+	{
+		resources/Entities/object/bed.PNG 
+	}
+
+	SaveCharacter 
+	{
+		B
+	}
+}
+
+AI
+{ 
+	Type
+	{
+		sprite
+	}
+	
+	Image
+	{
+		resources/Entities/object/AI/up.PNG 
+	}
+
+	StartAngle
+	{
+		90
+	}
+
+	SaveCharacter 
+	{
+		Z
+	}
+}
+
+Guest
+{ 
+	Type
+	{
+		AI
+	}
+	
+	Image
+	{
+		resources/Entities/object/AI/g.PNG 
+	}
+
+	SaveCharacter 
+	{
+		G
+	}
+}
+
+Receptionist
+{ 
+	Type
+	{
+		AI
+	}
+	
+	Image
+	{
+		resources/Entities/object/AI/r.PNG 
+	}
+
+	SaveCharacter 
+	{
+		R
+	}
+}
+
+Zombie
+{ 
+	Type
+	{
+		AI
+	}
+	
+	Image
+	{
+		resources/Entities/object/AI/z.PNG
+	}
+
+	SaveCharacter 
+	{
+		Z
+	}
+}
+
+Door
+{ 
+	Type
+	{
+		object
+	}
+	
+	Image
+	{
+		resources/Entities/object/door.PNG 
+	}
+
+	Angle
+	{
+		0
+	}
+
+	SaveCharacter 
+	{
+		D
+	}
+}
